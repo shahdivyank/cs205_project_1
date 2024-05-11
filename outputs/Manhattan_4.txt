@@ -1,0 +1,23 @@
+Best state to expand with g(x): 0 and h(x): 4
+[[1 2 3]
+ [5 0 6]
+ [4 7 8]]
+Best state to expand with g(x): 1 and h(x): 3
+[[1 2 3]
+ [0 5 6]
+ [4 7 8]]
+Best state to expand with g(x): 2 and h(x): 2
+[[1 2 3]
+ [4 5 6]
+ [0 7 8]]
+Best state to expand with g(x): 3 and h(x): 1
+[[1 2 3]
+ [4 5 6]
+ [7 0 8]]
+Best state to expand with g(x): 4 and h(x): 0
+[[1 2 3]
+ [4 5 6]
+ [7 8 0]]
+Solution depth was 4
+Number of nodes expanded: 4
+Max queue size: 6
